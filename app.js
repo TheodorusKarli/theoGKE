@@ -10,7 +10,7 @@ app.get('/', (req, res) => {
     res.send(`
         Nama saya Theodorus Karli <br/>
         NIM: 51019020 <br/>
-        Jurusan Sistem Informasi <br/><br/>
+        Jurusan Sistem Informasi <br/>
     `)
 })
 
